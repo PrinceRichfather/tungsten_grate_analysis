@@ -1,0 +1,10 @@
+.vscode
+.venv*
+.ipynb*
+hbook_files
+root_files
+lmfit_examples
+stash
+*.txt
+marp_demo.md
+__pycache__
